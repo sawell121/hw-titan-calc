@@ -1,0 +1,597 @@
+[
+    {
+      "level": 2,
+      "potion_cost": 100,
+      "emerald_cost": 20
+    },
+    {
+      "level": 3,
+      "potion_cost": 110,
+      "emerald_cost": 22
+    },
+    {
+      "level": 4,
+      "potion_cost": 120,
+      "emerald_cost": 24
+    },
+    {
+      "level": 5,
+      "potion_cost": 130,
+      "emerald_cost": 26
+    },
+    {
+      "level": 6,
+      "potion_cost": 140,
+      "emerald_cost": 28
+    },
+    {
+      "level": 7,
+      "potion_cost": 150,
+      "emerald_cost": 30
+    },
+    {
+      "level": 8,
+      "potion_cost": 160,
+      "emerald_cost": 32
+    },
+    {
+      "level": 9,
+      "potion_cost": 170,
+      "emerald_cost": 34
+    },
+    {
+      "level": 10,
+      "potion_cost": 180,
+      "emerald_cost": 36
+    },
+    {
+      "level": 11,
+      "potion_cost": 190,
+      "emerald_cost": 38
+    },
+    {
+      "level": 12,
+      "potion_cost": 200,
+      "emerald_cost": 40
+    },
+    {
+      "level": 13,
+      "potion_cost": 210,
+      "emerald_cost": 42
+    },
+    {
+      "level": 14,
+      "potion_cost": 220,
+      "emerald_cost": 44
+    },
+    {
+      "level": 15,
+      "potion_cost": 230,
+      "emerald_cost": 46
+    },
+    {
+      "level": 16,
+      "potion_cost": 240,
+      "emerald_cost": 48
+    },
+    {
+      "level": 17,
+      "potion_cost": 250,
+      "emerald_cost": 50
+    },
+    {
+      "level": 18,
+      "potion_cost": 260,
+      "emerald_cost": 52
+    },
+    {
+      "level": 19,
+      "potion_cost": 270,
+      "emerald_cost": 54
+    },
+    {
+      "level": 20,
+      "potion_cost": 280,
+      "emerald_cost": 56
+    },
+    {
+      "level": 21,
+      "potion_cost": 290,
+      "emerald_cost": 58
+    },
+    {
+      "level": 22,
+      "potion_cost": 300,
+      "emerald_cost": 60
+    },
+    {
+      "level": 23,
+      "potion_cost": 310,
+      "emerald_cost": 62
+    },
+    {
+      "level": 24,
+      "potion_cost": 320,
+      "emerald_cost": 64
+    },
+    {
+      "level": 25,
+      "potion_cost": 330,
+      "emerald_cost": 66
+    },
+    {
+      "level": 26,
+      "potion_cost": 340,
+      "emerald_cost": 68
+    },
+    {
+      "level": 27,
+      "potion_cost": 350,
+      "emerald_cost": 70
+    },
+    {
+      "level": 28,
+      "potion_cost": 360,
+      "emerald_cost": 72
+    },
+    {
+      "level": 29,
+      "potion_cost": 370,
+      "emerald_cost": 74
+    },
+    {
+      "level": 30,
+      "potion_cost": 380,
+      "emerald_cost": 76
+    },
+    {
+      "level": 31,
+      "potion_cost": 390,
+      "emerald_cost": 78
+    },
+    {
+      "level": 32,
+      "potion_cost": 440,
+      "emerald_cost": 88
+    },
+    {
+      "level": 33,
+      "potion_cost": 490,
+      "emerald_cost": 98
+    },
+    {
+      "level": 34,
+      "potion_cost": 540,
+      "emerald_cost": 108
+    },
+    {
+      "level": 35,
+      "potion_cost": 590,
+      "emerald_cost": 118
+    },
+    {
+      "level": 36,
+      "potion_cost": 640,
+      "emerald_cost": 128
+    },
+    {
+      "level": 37,
+      "potion_cost": 690,
+      "emerald_cost": 138
+    },
+    {
+      "level": 38,
+      "potion_cost": 740,
+      "emerald_cost": 148
+    },
+    {
+      "level": 39,
+      "potion_cost": 790,
+      "emerald_cost": 158
+    },
+    {
+      "level": 40,
+      "potion_cost": 840,
+      "emerald_cost": 168
+    },
+    {
+      "level": 41,
+      "potion_cost": 890,
+      "emerald_cost": 178
+    },
+    {
+      "level": 42,
+      "potion_cost": 940,
+      "emerald_cost": 188
+    },
+    {
+      "level": 43,
+      "potion_cost": 990,
+      "emerald_cost": 198
+    },
+    {
+      "level": 44,
+      "potion_cost": 1040,
+      "emerald_cost": 208
+    },
+    {
+      "level": 45,
+      "potion_cost": 1090,
+      "emerald_cost": 218
+    },
+    {
+      "level": 46,
+      "potion_cost": 1140,
+      "emerald_cost": 228
+    },
+    {
+      "level": 47,
+      "potion_cost": 1190,
+      "emerald_cost": 238
+    },
+    {
+      "level": 48,
+      "potion_cost": 1240,
+      "emerald_cost": 248
+    },
+    {
+      "level": 49,
+      "potion_cost": 1290,
+      "emerald_cost": 258
+    },
+    {
+      "level": 50,
+      "potion_cost": 1340,
+      "emerald_cost": 268
+    },
+    {
+      "level": 51,
+      "potion_cost": 1390,
+      "emerald_cost": 278
+    },
+    {
+      "level": 52,
+      "potion_cost": 1490,
+      "emerald_cost": 298
+    },
+    {
+      "level": 53,
+      "potion_cost": 1590,
+      "emerald_cost": 318
+    },
+    {
+      "level": 54,
+      "potion_cost": 1690,
+      "emerald_cost": 338
+    },
+    {
+      "level": 55,
+      "potion_cost": 1790,
+      "emerald_cost": 358
+    },
+    {
+      "level": 56,
+      "potion_cost": 1890,
+      "emerald_cost": 378
+    },
+    {
+      "level": 57,
+      "potion_cost": 1990,
+      "emerald_cost": 398
+    },
+    {
+      "level": 58,
+      "potion_cost": 2090,
+      "emerald_cost": 418
+    },
+    {
+      "level": 59,
+      "potion_cost": 2190,
+      "emerald_cost": 438
+    },
+    {
+      "level": 60,
+      "potion_cost": 2290,
+      "emerald_cost": 458
+    },
+    {
+      "level": 61,
+      "potion_cost": 2390,
+      "emerald_cost": 478
+    },
+    {
+      "level": 62,
+      "potion_cost": 2490,
+      "emerald_cost": 498
+    },
+    {
+      "level": 63,
+      "potion_cost": 2590,
+      "emerald_cost": 518
+    },
+    {
+      "level": 64,
+      "potion_cost": 2690,
+      "emerald_cost": 538
+    },
+    {
+      "level": 65,
+      "potion_cost": 2790,
+      "emerald_cost": 558
+    },
+    {
+      "level": 66,
+      "potion_cost": 2890,
+      "emerald_cost": 578
+    },
+    {
+      "level": 67,
+      "potion_cost": 2990,
+      "emerald_cost": 598
+    },
+    {
+      "level": 68,
+      "potion_cost": 3090,
+      "emerald_cost": 618
+    },
+    {
+      "level": 69,
+      "potion_cost": 3190,
+      "emerald_cost": 638
+    },
+    {
+      "level": 70,
+      "potion_cost": 3290,
+      "emerald_cost": 658
+    },
+    {
+      "level": 71,
+      "potion_cost": 3390,
+      "emerald_cost": 678
+    },
+    {
+      "level": 72,
+      "potion_cost": 3590,
+      "emerald_cost": 718
+    },
+    {
+      "level": 73,
+      "potion_cost": 3790,
+      "emerald_cost": 758
+    },
+    {
+      "level": 74,
+      "potion_cost": 3990,
+      "emerald_cost": 798
+    },
+    {
+      "level": 75,
+      "potion_cost": 4190,
+      "emerald_cost": 838
+    },
+    {
+      "level": 76,
+      "potion_cost": 4390,
+      "emerald_cost": 878
+    },
+    {
+      "level": 77,
+      "potion_cost": 4590,
+      "emerald_cost": 918
+    },
+    {
+      "level": 78,
+      "potion_cost": 4790,
+      "emerald_cost": 958
+    },
+    {
+      "level": 79,
+      "potion_cost": 4990,
+      "emerald_cost": 998
+    },
+    {
+      "level": 80,
+      "potion_cost": 5190,
+      "emerald_cost": 1038
+    },
+    {
+      "level": 81,
+      "potion_cost": 5390,
+      "emerald_cost": 1078
+    },
+    {
+      "level": 82,
+      "potion_cost": 5590,
+      "emerald_cost": 1118
+    },
+    {
+      "level": 83,
+      "potion_cost": 5990,
+      "emerald_cost": 1198
+    },
+    {
+      "level": 84,
+      "potion_cost": 6390,
+      "emerald_cost": 1278
+    },
+    {
+      "level": 85,
+      "potion_cost": 6790,
+      "emerald_cost": 1358
+    },
+    {
+      "level": 86,
+      "potion_cost": 7190,
+      "emerald_cost": 1438
+    },
+    {
+      "level": 87,
+      "potion_cost": 7590,
+      "emerald_cost": 1518
+    },
+    {
+      "level": 88,
+      "potion_cost": 7990,
+      "emerald_cost": 1598
+    },
+    {
+      "level": 89,
+      "potion_cost": 8390,
+      "emerald_cost": 1678
+    },
+    {
+      "level": 90,
+      "potion_cost": 8790,
+      "emerald_cost": 1758
+    },
+    {
+      "level": 91,
+      "potion_cost": 9190,
+      "emerald_cost": 1838
+    },
+    {
+      "level": 92,
+      "potion_cost": 9590,
+      "emerald_cost": 1918
+    },
+    {
+      "level": 93,
+      "potion_cost": 9990,
+      "emerald_cost": 1998
+    },
+    {
+      "level": 94,
+      "potion_cost": 10390,
+      "emerald_cost": 2078
+    },
+    {
+      "level": 95,
+      "potion_cost": 10790,
+      "emerald_cost": 2158
+    },
+    {
+      "level": 96,
+      "potion_cost": 11190,
+      "emerald_cost": 2238
+    },
+    {
+      "level": 97,
+      "potion_cost": 11590,
+      "emerald_cost": 2318
+    },
+    {
+      "level": 98,
+      "potion_cost": 11990,
+      "emerald_cost": 2398
+    },
+    {
+      "level": 99,
+      "potion_cost": 12390,
+      "emerald_cost": 2478
+    },
+    {
+      "level": 100,
+      "potion_cost": 12790,
+      "emerald_cost": 2558
+    },
+    {
+      "level": 101,
+      "potion_cost": 13390,
+      "emerald_cost": 2678
+    },
+    {
+      "level": 102,
+      "potion_cost": 13990,
+      "emerald_cost": 2798
+    },
+    {
+      "level": 103,
+      "potion_cost": 14590,
+      "emerald_cost": 2918
+    },
+    {
+      "level": 104,
+      "potion_cost": 15190,
+      "emerald_cost": 3038
+    },
+    {
+      "level": 105,
+      "potion_cost": 15790,
+      "emerald_cost": 3158
+    },
+    {
+      "level": 106,
+      "potion_cost": 16390,
+      "emerald_cost": 3278
+    },
+    {
+      "level": 107,
+      "potion_cost": 16990,
+      "emerald_cost": 3398
+    },
+    {
+      "level": 108,
+      "potion_cost": 17590,
+      "emerald_cost": 3518
+    },
+    {
+      "level": 109,
+      "potion_cost": 18190,
+      "emerald_cost": 3638
+    },
+    {
+      "level": 110,
+      "potion_cost": 18790,
+      "emerald_cost": 3758
+    },
+    {
+      "level": 111,
+      "potion_cost": 19590,
+      "emerald_cost": 3918
+    },
+    {
+      "level": 112,
+      "potion_cost": 20390,
+      "emerald_cost": 4078
+    },
+    {
+      "level": 113,
+      "potion_cost": 21190,
+      "emerald_cost": 4238
+    },
+    {
+      "level": 114,
+      "potion_cost": 21990,
+      "emerald_cost": 4398
+    },
+    {
+      "level": 115,
+      "potion_cost": 22790,
+      "emerald_cost": 4558
+    },
+    {
+      "level": 116,
+      "potion_cost": 23590,
+      "emerald_cost": 4718
+    },
+    {
+      "level": 117,
+      "potion_cost": 24390,
+      "emerald_cost": 4878
+    },
+    {
+      "level": 118,
+      "potion_cost": 25190,
+      "emerald_cost": 5038
+    },
+    {
+      "level": 119,
+      "potion_cost": 25990,
+      "emerald_cost": 5198
+    },
+    {
+      "level": 120,
+      "potion_cost": 26790,
+      "emerald_cost": 5358
+    }
+  ]
